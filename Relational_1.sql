@@ -1,0 +1,2 @@
+@@ERdiagramOnlineShopping\Relational_1\Oracle_Database_11g\DataObjects\Structure_Type\MDSYS.SDO_GEOMETRY.sql
+@@ERdiagramOnlineShopping\Relational_1\Oracle_Database_11g\DataObjects\Structure_Type\XMLTYPE.sql

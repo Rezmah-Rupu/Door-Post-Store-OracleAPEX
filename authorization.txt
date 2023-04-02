@@ -1,0 +1,1 @@
+insert into my_users values (my_users_seq.nextval, 'admin', 'admin123', 1);
